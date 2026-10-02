@@ -108,7 +108,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
                 TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>это город / в ста километрах от челябинска / ещё меньше</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>это город / в ста километрах от Челябинска / ещё меньше</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -156,7 +156,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
                 TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>у меня спрашивают коньки есть? есть!</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>у меня спрашивают коньки есть?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
